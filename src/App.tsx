@@ -148,7 +148,7 @@ function App() {
         ) : (
           <div className='flex px-4 flex-col '>
             <a
-              href='https://warpcast.com/~/mini-apps/launch?domain=lilchogstars.pages.dev'
+              href='https://warpcast.com/~/mini-apps/launch?domain=fc-mint-app.vercel.app'
               className='bg-[#362e6f] text-white flex justify-center items-center font-semibold text-2xl h-14 px-7 rounded-2xl drop-shadow-[0px_0px_1rem_#2d235acc]'
             >
               Open in Warpcast
