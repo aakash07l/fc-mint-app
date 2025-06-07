@@ -158,7 +158,7 @@ function App() {
       </main>
       <footer className='flex flex-col gap-12 w-full items-center text-center'>
         <div className='flex items-center gap-6'>
-          <a href='https://x.com/chogstarrr' target='_blank' className='w-10'>
+          <a href='https://x.com/Aakashlohar07s' target='_blank' className='w-10'>
             <svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 512 512'>
               <path
                 fill='#0b3800'
@@ -167,7 +167,7 @@ function App() {
             </svg>
           </a>
 
-          <a href='https://github.com/berzanorg/lilchogstars-mini-app' target='_blank' className='w-10'>
+          <a href='https://github.com/aakash07l/fc-mint-app' target='_blank' className='w-10'>
             <svg xmlns='http://www.w3.org/2000/svg' width='31' height='32' viewBox='0 0 496 512'>
               <path
                 fill='#0b3800'
