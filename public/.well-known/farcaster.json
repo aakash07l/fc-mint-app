@@ -1,25 +1,18 @@
 {
   "accountAssociation": {
-    "header": "eyJmaWQiOjM4MTA2NiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGRmRTQyYmRmMUEwM2I3N0Y4RDdhNTdBOTEyZkRhNTI0ZEE0RjdmODMifQ",
-    "payload": "eyJkb21haW4iOiJsaWxjaG9nc3RhcnMucGFnZXMuZGV2In0",
-    "signature": "MHg5NjVmMDI3ZDE4MGY0MzgzMDM2NGUyYzI3YjliMTkzZjI0NmMxODgzYzg4NDVjODQ3NDFiMjkyYjJkOTgzN2EwNzYxYmUwYjU5OTk5MTMyZTc4OTcyZmViYTg4ODlmMTEzZDMwNWI0NTU3MDk4NGI2OWMzZWMzZmJiMGI1NTcwNTFj"
+    "header": "eyJmaWQiOjIzNDYyMiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGMxMEEyNDVlNzhGQzI5RGI4ZWEzYjliZDJlYTM1ZUU2MmM3Y0M5OUEifQ",
+    "payload": "eyJkb21haW4iOiJmYy1taW50LWFwcC52ZXJjZWwuYXBwIn0",
+    "signature": "MHg0ZmVmMTI0MTEwNTk0YmZjZjNmZGI3NTgxYzc5ZWVkMjgxOThkNWI4YmQzNTJlNjFmYjQ5OTFiZjYxODJjYzMyMTg1ZTg0MTdlZmVjZDZkZGZjMzJhZWRjYjY1NmQ2NmFmNDIzZjYyZjczNDcxZmJiNjIzZDgwMDk3NTgzNmQ4YjFi"
   },
   "frame": {
     "version": "1",
-    "name": "Lil Chogstars",
-    "iconUrl": "https://lilchogstars.pages.dev/logo.png",
-    "splashImageUrl": "https://lilchogstars.pages.dev/splash.png",
-    "splashBackgroundColor": "#3f317b",
-    "homeUrl": "https://lilchogstars.pages.dev",
-    "subtitle": "Lil Chogstars Open Editon!",
-    "description": "Mint Lil Chogstars Open Editon!",
-    "screenshotUrls": [],
-    "primaryCategory": "art-creativity",
-    "tags": ["lilchogstars", "monad", "nft", "mint"],
-    "heroImageUrl": "https://lilchogstars.pages.dev/og.png",
-    "tagline": "Lil Chogstars Open Editon!",
-    "ogTitle": "Lil Chogstars",
-    "ogDescription": "Mint Lil Chogstars Open Editon!",
-    "ogImageUrl": "https://lilchogstars.pages.dev/og.png"
+    "name": "Example Frame",
+    "iconUrl": "https://fc-mint-app.vercel.app/icon.png",
+    "homeUrl": "https://fc-mint-app.vercel.app",
+    "imageUrl": "https://fc-mint-app.vercel.app/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://fc-mint-app.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://fc-mint-app.vercel.app/api/webhook"
   }
 }
